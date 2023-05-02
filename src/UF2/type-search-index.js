@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"UF2.mastermind","l":"mastermind"}];updateSearchResults();
